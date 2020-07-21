@@ -215,7 +215,7 @@ footer span{
 
 
 }
-@media screen and (max-width: 576px){
+@media screen and (max-width: 361px){
     .listesm{
         padding-bottom: 2rem;
     }
