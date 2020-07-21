@@ -60,6 +60,15 @@ h1{
     color: black;
 }
 
+.Lien{
+    background-color: #F6B726;
+    color: black;
+    padding: 1rem;
+}
+
+.Lien:hover{
+    color: black;
+}
 
 ul li, .email{
     color: #F6B726;
@@ -195,6 +204,16 @@ footer span{
         justify-content: center;
         align-content: center;
         text-align: center;
+    }
+    h1{
+        padding-left: 0;
+        font-size: 2rem;
+    }
+    .Space{
+        text-align: left;
+    }
+    .maxScreen{
+        width: 100%;
     }
 }
 
