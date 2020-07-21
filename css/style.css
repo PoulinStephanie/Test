@@ -198,7 +198,7 @@ footer span{
     }
     h2{
         color: white;
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
     .Coordonnees{
         justify-content: center;
@@ -212,9 +212,8 @@ footer span{
     .Space{
         text-align: left;
     }
-    .maxScreen{
-        width: 100%;
-    }
+
+
 }
 
 @media screen and (max-width: 991px){
